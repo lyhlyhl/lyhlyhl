@@ -1,7 +1,7 @@
 # See here 👋
 Hi, here is xiaohui !​ :raising_hand_man:
 
-I am an interesting guy，and currently study in CUIT. :school:
+I am an interesting guy，and used to study in CUIT. :school:
 
 Welcome to visit my page :page_facing_up:, oh may you not think "What a terrible code".:joy:
 
