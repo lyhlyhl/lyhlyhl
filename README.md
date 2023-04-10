@@ -1,9 +1,9 @@
 # See here 👋
 Hi, here is xiaohui !​ :raising_hand_man:
 
-I am an interesting guy，and used to study in CUIT. :school:
+I am an interesting guy，and studying in AHU. :school:
 
-Welcome to visit my page :page_facing_up:, oh may you not think "What a terrible code".:joy:
+Welcome to visit my page :page_facing_up:, oh you may think "What a terrible code".:joy:
 
 I am glad to communicate with you. If you have any question or want to make friends with me, please just send email to me RIGHT NOW!:email:
 
