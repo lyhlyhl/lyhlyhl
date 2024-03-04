@@ -12,6 +12,7 @@ I am glad to communicate with you. If you have any question or want to make frie
 - Reinforce Learning
 - Embedded Development 
 - Multi-objective optimization
+- complex networks
 # ℹ️ &nbsp;Github Info
 
 <p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lyhlyhl&theme=github_dark" alt="lyhlyhl" align = "center"/></p>
